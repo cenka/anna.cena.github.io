@@ -2,3 +2,9 @@ body {
   background: rgb(238,242,246);
   background: linear-gradient(90deg, rgba(238,242,246,1) 25%, rgba(125,189,228,1) 100%); 
 }
+p {
+  font-family: "Times New Roman", Georgia, serif;
+}
+img {
+  width: 100%;
+}
