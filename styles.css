@@ -6,5 +6,6 @@ p {
   font-family: "Times New Roman", Georgia, serif;
 }
 img {
-  width: 100%;
+  width: 80%;
+  float: left;
 }
